@@ -1,5 +1,5 @@
 
-# Hi, I'm [DILSHA P] 👋
+# Hi, I'm DILSHA P 👋
 
 ![Header Image](https://img.freepik.com/premium-vector/front-end-developer-typographic-header_277904-11487.jpg)
 
@@ -35,7 +35,7 @@ I build modern, responsive web applications and enjoy collaborating on open-sour
 
 ## 🚀 Projects
 
-### 1. [ My Integrated Student Information System Master Scheduling]
+### 1. My Integrated Student Information System Master Scheduling
 **Tech:** React.js, Node.js, Tailwind CSS   
 Brief description of what the project does and your contributions.
 
